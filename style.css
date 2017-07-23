@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  font-family:   cursive;
+  color: maroon;
+  background-color: lavender;
+  text-align: center;
+}
+
+#head {
+  margin: 0;
+
+}
+.col-sm-4 {
+  background-color: lightblue;
+  color: rgb(12, 36, 89) ;
+  padding-bottom: 20px;
+}
+
+.col-sm-8 {
+  background-color: lightblue;
+  color: rgb(12, 36, 89) ;
+}
+
+h2 {
+  background-color: lavender;
+  text-align: center;
+}
+ table {
+   background-color: transparent;
+}
+
+.info {
+  color: purple;
+}
+
+img {
+  width: 400px;
+  height: 600px;
+  margin: 0 auto;
+  display: block;
+}
